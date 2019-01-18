@@ -3,3 +3,9 @@ h1 {color: lightskyblue;}
 p {color: lightseagreen}
 img {float: right;}
 #border {border-radius: 50px;background: purple;padding: 80px; width: 200px;height: 200px;}
+#anotherborder {border: 10px solid aquamarine; 
+    padding: 50px; 
+    border-top-right-radius: 60px 30px; 
+    border-bottom-right-radius: 60px 30px; 
+    border-top-left-radius: 60px 30px; 
+    border-bottom-left-radius: 60px 30px;}
