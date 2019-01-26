@@ -1,0 +1,62 @@
+
+#Header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px rgb(192, 229, 229);
+    text-align: center;
+    outline-style: dotted;
+    outline-color: rgb(192, 229, 229);
+}
+h2 {
+    font-size: 70px;
+    color: rgb(66, 163, 163);
+    font-family: fantasy;    
+}
+label {
+    font-size: 30px;
+    color: rgb(192, 229, 229);
+    font-family: fantasy;
+}
+legend {
+    font-size: 50px;
+    color: rgb(66, 163, 163);
+    font-family: cursive;
+    border: solid 5px rgb(192, 229, 229);
+    outline-style: dotted;
+    outline-color: rgb(192, 229, 229);
+}
+th {
+    font-size: 20px;
+    color: rgb(192, 229, 229);
+    font-family: fantasy;
+}
+body {
+    background-image: url('fantasy.jpg');
+}
+#Question {
+    font-size: 20px;
+    color: rgb(192, 229, 229);
+    font-family: fantasy;
+}
+#Checkbox {
+    font-size: 20px;
+    color: rgb(192, 229, 229);
+    font-family: fantasy;
+}
+#Submit {
+    font-size: 50px;
+    color: green;
+    size: 200px;
+    font-family: fantasy;
+    height: 200px;
+    width: 200px;
+}
+#Type {
+    color: rgb(66, 163, 163);
+    size: 200px;
+    font-family: fantasy;
+    height: 50px;
+    width: 50;
+}
